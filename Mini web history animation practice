@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Carpedia history</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no">
+<link rel="stylesheet" href="css assg.css">
+<style type="text/css">
+
+	* {box-sizing: border-box;font-family:  Noto Mono;}
+	body{background-color: black;background-image: url(carbg.jpg); background-repeat: no-repeat;background-size:cover;
+position: absolute;margin-left: 0px;margin-right: 0px; background-attachment: fixed;}
+	.a1 {float: left;padding-left:90px; font-size: 12px;color: yellow;padding-top: 23px;}
+	.b {float: right; padding-right: 110px; padding-top: 23px; font-size: 12px;color: yellow;}
+	li:hover{box-shadow: 0 4px 16px 0 rgba(0,250,250,0.5);border-bottom: 2px solid yellow;transition: 1s;background-color: rgba(132,131,129,0.8);text-shadow: 2px 2px 3px;}
+	a, a:hover, a:link, a:visited, a:active {text-decoration: none;color: inherit;}
+	ul {list-style-type: none;}
+	li{display: inline;text-transform: uppercase;padding:10px; animation: tmove 5s infinite;}
+	.head {color: yellow;font-weight: bold;font-size: 30px;border: 5px groove;border-color:lightblue ;  border-radius: 10px;cursor:none;text-transform: uppercase; display: inline;padding: 5px 12px 5px 12px;top: 10px; box-shadow: 0 4px 16px 0 rgba(0,250,250,0.8);float: left;text-shadow: 2px 3px 1px rgba(0,0,250,0.8); position: absolute;margin-left: 260px;}
+		 .head:hover{box-shadow: 0 4px 16px 0 rgba(250,250,0,0.8);} .h{cursor: none;}
+h2 {color:gray;text-transform: capitalize;font-family: Segoe UI;float: center;}
+h2:hover {text-decoration: underline;}
+.hbox{margin-left: 150px;margin-right: 150px;margin-bottom: 1px;margin-top: 150px; float: none;} 
+.s {background-color: white;height: 140px; width: 200px;border:1px solid ; border-radius: 15px;margin: 12px ;float: left;}
+.box {background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);background-size: 120%; padding-bottom:100px;padding-right:130px; padding-left:130px;padding-top: 40px; margin: 25px;animation: mymove 5s ease infinite;}
+p {text-indent: 50px;word-spacing: 5px;}
+h3 {color: yellow;text-shadow: 2px 4px 5px;}
+@keyframes mymove {0% {background-position: 0% 50%; } 50% {background-position:100% 50%; }100% {background-position:0% 50%;}}
+@keyframes tmove {from {background-color: rgba(80,114,230,0.7);} to {background-color: rgba(245,245,245,0.2);}}
+.head1 {position: absolute; width: 100%;}
+	.bot {position: inherit; background-color: black; width: 94.9%; margin-left: 34px;}
+	.bot img {height: 50px;width: 50px;border: 1px solid inherit;border-radius: 15px;padding-left: 7px;}
+	div h1 {text-align: center;color: white;font-family: sans-serif;}
+
+	</style></head>
+<body>
+<div style="position: fixed; background-color: black; top: 0px;height: 100px; width: 94.9%; margin-left: 34px;"><div class="a1"><ul><li><a href="History.html" target="blank">History</a></li>&nbsp;<li><a href="Gallery.html" target="blank">Gallery</a></li></ul></div><div class="b5"></div>
+<div class="head"><a class="h" href="Mini website.html">Carpedia</a></div>
+<div class="b"><ul><li><a href="About.html" target="blank">About Us</a></li>&nbsp;<li><a href="Contact.html" target="blank">Contact</a></li></ul></div></div></div><br><br><br>
+<div class="hbox"><div class="box"><h3>Who invented the car</h3>
+	<p>The history of the car is a long and fascinating one, dating back to the early 1700s. While there were many inventors who contributed to the development of the car, the two most commonly credited with inventing the first modern car are Karl Benz and Gottlieb Daimler.
+Benz was a German engineer who patented his first gasoline-powered automobile in 1886. His car, the Benz Patent Motorwagen, was a three-wheeled vehicle that could reach speeds of up to 16 km/h (10 mph). Daimler was a German engineer who also patented a gasoline-powered automobile in 1886. His car, the Daimler Motor Wagon, was a four-wheeled vehicle that could reach speeds of up to 18 km/h (11 mph).
+Both Benz and Daimler's cars were significant advances in the development of the automobile, but it was Benz who is more commonly credited with inventing the first modern car. This is because Benz's car was more practical and marketable than Daimler's. Benz's car was easier to drive and control, and it was also more fuel-efficient.
+In the years following the invention of the first modern car, there was a rapid development of the automobile industry. By the early 1900s, cars were being produced in many countries around the world. One of the most important developments in the early days of the automobile industry was the introduction of the assembly line. The assembly line made it possible to produce cars more quickly and cheaply, which made them more affordable for the average person.
+The invention of the car had a profound impact on society. Cars made it possible for people to travel farther and faster than ever before. This led to a decline in the use of public transportation and a rise in the popularity of road trips. Cars also had a major impact on the development of cities. As more and more people began driving cars, cities had to be redesigned to accommodate them. This led to the construction of wider roads, more parking spaces, and more traffic signals.
+The car has continued to evolve over the years. In the 1920s, the first mass-produced cars were introduced. These cars were affordable for the average person, and they helped to make cars a more popular form of transportation. In the 1950s, the first automatic transmissions were introduced. This made cars easier to drive, and it helped to increase their popularity even further.
+In the 1970s, the first fuel-efficient cars were introduced. These cars helped to reduce the environmental impact of cars, and they also helped to make cars more affordable for the average person. In the 1990s, the first hybrid cars were introduced. These cars combine a gasoline engine with an electric motor, which helps to improve their fuel efficiency.
+Today, cars are more advanced than ever before. They are more fuel-efficient, more comfortable, and more safer than ever before. Cars have also become more personalized, with features like heated seats, sunroofs, and navigation systems becoming increasingly commonplace.
+The car has become an essential part of our lives. It is a convenient and efficient way to travel, and it has helped to shape the way we live and work. The car is here to stay, and it will continue to evolve in the years to come.
+</p></div></div>
+<div class="bot">
+	<h1>Contact Us</h1>
+	<div style="padding-left: 42%;padding-bottom: 15px;"><img src="fb.png" alt="facebook"><img src="insta.png" alt="insta"><img src="youtube.png" alt="youtube"><img src="twit.png" alt="twitter"><img src="whats.png" alt="whatsapp">
+</div></div>
+
+</body>
+</html>	
