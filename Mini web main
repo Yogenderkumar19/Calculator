@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Carpedia.com</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no">
+<link rel="stylesheet" href="css assg.css">
+<style type="text/css">
+
+	* {box-sizing: border-box;font-family:  Noto Mono;}
+	body{background-color: black;background-image: url(carbg.jpg); background-repeat: no-repeat;background-size:cover;
+position: absolute;margin-left: 0px;margin-right: 0px; background-attachment: fixed;}
+	.a1 {float: left;padding-left:90px; font-size: 12px;color: yellow;padding-top: 23px;}
+	.b {float: right; padding-right: 110px; padding-top: 23px; font-size: 12px;color: yellow;}
+	li:hover{box-shadow: 0 4px 16px 0 rgba(0,250,250,0.5);border-bottom: 2px solid yellow;transition: 1s;background-color: rgba(132,131,129,0.8);text-shadow: 2px 2px 3px;}
+	a, a:hover, a:link, a:visited, a:active {text-decoration: none;color: inherit;}
+	ul {list-style-type: none;}
+		li{display: inline;text-transform: uppercase;padding:10px;background: linear-gradient(-45deg, #787878, #23a6d5, #23d5ab);background-size:95% 20%;  animation: tmove 5s infinite;}	.head {color: yellow;font-weight: bold;font-size: 30px;border: 5px groove;border-color:lightblue ;  border-radius: 10px;cursor:none;text-transform: uppercase; display: inline;padding: 5px 12px 5px 12px;top: 10px; box-shadow: 0 4px 16px 0 rgba(0,250,250,0.8);float: left;text-shadow: 2px 3px 1px rgba(0,0,250,0.8); position: absolute;margin-left: 260px;}
+		 .head:hover{box-shadow: 0 4px 16px 0 rgba(250,250,0,0.8);} .h{cursor: none;}
+h2 {color:gray;text-transform: capitalize;font-family: Segoe UI;float: center;}
+h2:hover {text-decoration: underline;}
+.hbox{margin-left: 50px;margin-right: 50px;margin-bottom: 1px;margin-top: 150px; float: none;} 
+.s {background-color: white;height: 140px; width: 200px;border:1px solid ; border-radius: 15px;margin: 12px ;float: left;}
+.box {box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2), -10px -10px 10px 0px rgba(0,0,0,0.2),10px -10px 10px 0px rgba(0,0,0,0.2),-10px 10px 10px 0px rgba(0,0,0,0.8);background-color: rgba(10,10,10,0.5);padding-bottom:10px;padding-right:25px; margin: 25px; transition: 1s;}
+.box:hover {box-shadow: 0 2px 16px 0 rgba(100,225,120,0.8);background-color: rgba(10,10,10,0.8);transition: 1s; }
+.head1 {position: absolute; width: 100%;}
+@keyframes tmove {0% {background-color: rgba(80,114,230,0.7);} 50% {background-color: rgba(245,245,245,0.2);} 100% {background-color: rgba(80,114,230,0.7);}}
+h5 {color:rgb(203,210,200);font-family: Segoe UI;font-size: 15px; }
+{box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2), -10px -10px 10px 0px rgba(0,0,0,0.2),10px -10px 10px 0px rgba(0,0,0,0.2),
+	-10px -10px 10px 0px rgba(0,0,0,0.2);}
+		.bot {position: inherit; background-color: black; width: 94.9%; margin-left: 34px;}
+	.bot img {height: 50px;width: 50px;border: 1px solid inherit;border-radius: 10px;padding-left: 7px;}
+	div h1 {text-align: center;color: white;font-family: sans-serif;}
+
+</style></head>
+<body>
+	<div style="position: fixed; background-color: black;box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2), -10px -10px 10px 0px rgba(0,0,0,0.2),10px -10px 10px 0px rgba(0,0,0,0.2),-10px 10px 10px 0px rgba(0,0,0,0.8); top: 0px;height: 100px; width: 94.9%; margin-left: 34px;"><div class="a1"><ul><li><a href="History.html" target="blank">History</a></li>&nbsp;<li><a href="Gallery.html" target="blank">Gallery</a></li></ul></div><div class="b5"></div>
+<div class="head"><a class="h" href="Mini website.html">Carpedia</a></div>
+<div class="b"><ul><li><a href="About.html" target="blank">About Us</a></li>&nbsp;<li><a href="Contact.html" target="blank">Contact</a></li></ul></div></div></div><br><br><br>
+<marquee style="position: absolute;" scrollamount="10" direction="right"><img src="car cartoon.png" alt="car" height="150px" width="200px"></marquee>
+<br><br>
+<div class="hbox"><div class="box"><a href="maruti suzuki.png" target="blank"><img class="s" src="maruti suzuki.png"></a><h2>Maruti suzuki</h2><h5>This is inarguably the biggest car manufacturer in India and holds a market share of 41.6%. Maruti Suzuki is known for affordable, efficient, easy-to-maintain, and reliable car It has the largest sales and service network in India, which helps it amplify the number of customer,
+In 2022, Maruti Suzuki sold over 15,000,000 units in India, 15% more than what it sold in 2021. Growth has always been consistent for this brand and in 2023, Maruti Suzuki is expected to continue its trajectory.<a href="" style="color: lightblue;"> Know more...</a></h5></div>
+<div class="box"><a href="hyundai.png" target="blank"><img class="s" src="hyundai.png"></a><h2>Hyundai</h2><h5>Next up on this list of best car brands in India is Hyundai. The Korean manufacturer has made a very strong mark in the Indian market over the last two decades with cars like the Santro, i10, i20, Verna, and the Creta. Today, Hyundai holds a market share of 14.6% in India and has a massive fanbase. What sets Hyundai apart is its design language, the features its cars offer, and the VFM they bring into the picture. 
+Hyundai sold over 5,50,000 units in India in 2022, which was up by 9% when compared to 2021. <a href="" style="color: lightblue;"> Know more...</a></h5>
+</div>
+<div class="box"><a href="tata.png" target="blank"><img class="s" src="tata.png"></a><h2>tata</h2><h5>Tata has completely revamped itself in the last five years. A brand that was once associated with trucks and buses is now looked at as one of the best manufacturers in India and holds a market share of 13.9%. Tata is also heavily playing the EV game with the Nexon, Tigor, and Tiago EV. This OG Indian manufacturer has really focused on quality and has consistently been delivering some of the safest cars in each segment. 
+
+Tata Motors sold over 5,20,000 units in 2022, this was up by a massive 59% as compared to 2021.<a href="" style="color: lightblue;"> Know more...</a></h5></div>
+<div class="box"><a href="Mahindra.png" target="blank"><img class="s" src="Mahindra.png"></a><h2>Mahindra</h2><h5>Mahindra has come a long way in terms of quality, customer experience, and overall brand image. Today, Mahindra cars are considered to be premium, and the company holds about 8.9% of the market share. Products like the XUV700 and the ScorpioN still have a massive waiting period, with thousands of customers eagerly waiting in line to get their hands on a Mahindra SUV!
+Mahindra sold over 3,30,000 units in India in 2022.<a href="" style="color: lightblue;"> Know more...</a></h5></div>
+<div class="box"><a href="kia.png" target="blank"><img class="s" src="kia.png"></a><h2>Kia</h2><h5>Hyundai’s sister brand Kia came to India in 2019 with the Seltos and it was an instant hit. Just like Hyundai, Kia cars offer excellent features, design, and VFM, This helped Kia quickly race up to being one of the best car brands in India. Despite a relatively small list of cars, Kia has managed to get a hold of 6.7% of the Indian car market share, which is phenomenal for such a young brand. In 2022, Kia sold over 3,36,000 units, which mainly comprised compact SUVs.<a href="" style="color: lightblue;"> Know more...</a>
+</h5></div></div>
+<div class="bot">
+	<h1>Contact Us</h1>
+	<div style="padding-left: 40%; padding-right: 10%; padding-bottom: 15px;"><img src="fb.png" alt="facebook"><img src="insta.png" alt="insta"><img src="youtube.png" alt="youtube"><img src="twit.png" alt="twitter"><img src="whats.png" alt="whatsapp">
+</div></div>
+</body>
+</html>
